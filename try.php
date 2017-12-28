@@ -1,1 +1,1 @@
-<?php echo "no code"; ?>
+<?php echo "mana bisa"; ?>
